@@ -1,6 +1,6 @@
 ## welcome to joão's profile!
 
-### hey there! I'm a Brazilian Software and Web Developer!  📖
+### hey there! I'm a Brazilian full-stack developer!  📖
 <div>
   <a href="https://github.com/jvs4nt">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jvs4nt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
